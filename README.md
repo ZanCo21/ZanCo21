@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ZanCo21
 - 👀 I’m interested in Code
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning PHP
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me fauzan.alghifari21@gmail.com
 
