@@ -1,6 +1,6 @@
 <a href="#"><img width="100%" height="500px" src="https://i.pinimg.com/originals/8b/35/fe/8b35fef55fba1a201c9c7a11d3ec3d64.gif" height="175px"/></a>
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="42px">, I'm Fauzan Alghifari</h1>
-<h3 align="center">A passionate web developer from indonesia</h3>
+<h3 align="center">I’m a software engineer who enjoys creating fullstack apps. When I’m not debugging or architecting apps, you’ll find me diving into my studies as a dedicated student constantly leveling up both in code and knowledge.</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
 ## 🧐 About Me
